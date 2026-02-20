@@ -179,3 +179,4 @@ Using the Dynamic Groups created earlier, ensure you have these policies in plac
 
 Once these configurations are complete, the Resource Scheduler will automatically trigger the function each day at the scheduled time, copying the FOCUS reports to your designated Object Storage bucket. 
 
+In the coming weeks, we will publish follow-up blog posts detailing how you can use these files for custom reporting with Oracle Analytics Cloud and apply machine learning models, like anomaly detection, to identify unusual spending patterns.
